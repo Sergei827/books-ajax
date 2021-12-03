@@ -1,0 +1,12 @@
+
+
+.book-item{
+    border: 1px solid #FF4500;
+    margin: 20px;
+    padding: 20px;
+}
+
+.book-title{
+    color: #FF4500; 
+    text-decoration: underline;
+}
